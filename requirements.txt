@@ -3,6 +3,6 @@ pandas
 numpy
 pytube
 streamlit_extras
-plotly.express
+plotly
 seaborn>=0.11.1
-matplotlib.pyplot
+matplotlib>=3.3.4
