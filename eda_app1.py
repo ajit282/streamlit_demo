@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
-from textblob import TextBlob
 import numpy as np
 
 # Function to load dataset
