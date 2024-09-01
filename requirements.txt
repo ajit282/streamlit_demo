@@ -3,3 +3,6 @@ pandas
 numpy
 pytube
 streamlit_extras
+plotly.express
+seaborn
+matplotlib.pyplot
